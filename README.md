@@ -1,6 +1,6 @@
 **Unit Testing**
 
-1. **Restful API menggunakan Laravel Passport**
+**Restful API menggunakan Laravel Passport**
 
 **Local server path: localhost:8000/api/v1**
 
@@ -24,6 +24,7 @@
 
 
 1. **POST login
+
 ![](unit-testing/Aspose.Words.9b43159d-25df-4ee7-aee7-0c5131da4b5b.001.png)**
 
 2. **POST category**
@@ -66,7 +67,8 @@
 
 ![](unit-testing/Aspose.Words.9b43159d-25df-4ee7-aee7-0c5131da4b5b.011.png)
 
-2. **Blog Sederhana Menggunakan laravel Blade serta Laravel UI**
+
+**Blog Sederhana Menggunakan laravel Blade serta Laravel UI**
 
 **Local server path: localhost:8000**
 
@@ -107,7 +109,9 @@
 
 Display the number of categories and articles
 
-![](unit-testing/Aspose.Words.9b43159d-25df-4ee7-aee7-0c5131da4b5b.016.png)![](Aspose.Words.9b43159d-25df-4ee7-aee7-0c5131da4b5b.017.png)![](Aspose.Words.9b43159d-25df-4ee7-aee7-0c5131da4b5b.018.png)
+![](unit-testing/Aspose.Words.9b43159d-25df-4ee7-aee7-0c5131da4b5b.016.png)![](Aspose.Words.9b43159d-25df-4ee7-aee7-0c5131da4b5b.017.png)
+
+![](Aspose.Words.9b43159d-25df-4ee7-aee7-0c5131da4b5b.018.png)
 
 1. **GET category**
 
