@@ -23,7 +23,7 @@
 |POST|/ article/delete|Delete|
 
 
-1. **POST login
+1. **POST login**
 
 ![](unit-testing/Aspose.Words.9b43159d-25df-4ee7-aee7-0c5131da4b5b.001.png)**
 
@@ -108,8 +108,6 @@
 ![](unit-testing/Aspose.Words.9b43159d-25df-4ee7-aee7-0c5131da4b5b.015.png)
 
 Display the number of categories and articles
-
-![](unit-testing/Aspose.Words.9b43159d-25df-4ee7-aee7-0c5131da4b5b.016.png)![](Aspose.Words.9b43159d-25df-4ee7-aee7-0c5131da4b5b.017.png)
 
 ![](Aspose.Words.9b43159d-25df-4ee7-aee7-0c5131da4b5b.018.png)
 
